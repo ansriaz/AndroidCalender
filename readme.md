@@ -14,7 +14,7 @@ Run App by Android Studio Menu > Run > Run App.
 
 ### By APK
 
-* APK is available at 
+* APK is available at [here](https://github.com/ansriaz/AndroidCalender/blob/master/apk/app-debug.apk)
 * After using the Auto-fill option, kindly close the app and open it again to see the data properly. (This needs to be fixed)
 
 Features
