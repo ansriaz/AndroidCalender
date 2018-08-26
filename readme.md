@@ -1,4 +1,9 @@
 # Android Calendar App
+An Android Calendar to manage the patients and care givers and the assignements of caregivers work.
+
+## Prerequisites
+* Android studio
+* Latest Android SDK
 
 ## Installation
 
