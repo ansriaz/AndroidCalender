@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.alizay.test.MainActivity">
+
+    <item android:id="@+id/action_today"
+        android:title="@string/action_today"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_day_view"
+        android:title="@string/action_day_view"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_week_view"
+        android:title="@string/action_week_view"
+        android:orderInCategory="102"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/authfill"
+        android:title="Auto-fill"
+        android:orderInCategory="103"
+        app:showAsAction="ifRoom"/>
+
+</menu>
